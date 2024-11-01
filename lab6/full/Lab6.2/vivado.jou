@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Oct 31 17:40:33 2024
+# Process ID: 11240
+# Current directory: C:/Users/rfebb/Desktop/ece128 labs/lab6/Lab6.2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17204 C:\Users\rfebb\Desktop\ece128 labs\lab6\Lab6.2\lab6.1.xpr
+# Log file: C:/Users/rfebb/Desktop/ece128 labs/lab6/Lab6.2/vivado.log
+# Journal file: C:/Users/rfebb/Desktop/ece128 labs/lab6/Lab6.2\vivado.jou
+# Running On        :DESKTOP-4RVJPC8
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+# CPU Frequency     :2904 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :17099 MB
+# Swap memory       :2550 MB
+# Total Virtual     :19649 MB
+# Available Virtual :9073 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/rfebb/Desktop/ece128 labs/lab6/Lab6.2/lab6.1.xpr}
+update_compile_order -fileset sources_1
